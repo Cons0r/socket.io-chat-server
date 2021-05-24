@@ -1,6 +1,5 @@
 # Socket.IO Python basics
 ### [Python-Socket.IO docs (more in depth)](https://python-socketio.readthedocs.io/en/latest/server.html#)
-![python-socketio logo (i made it)](https://cdn-1.chadfreeman.repl.co/static/python-socket.IO-no-background.png)
 There isnt much here as everything is pretty easy to do  
 The way to assign events for this Library are:  
 `@sio.event`  
