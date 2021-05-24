@@ -12,7 +12,7 @@ except AttributeError:
 	# even if you finsish the setup leave this here just incase rep.it acts weird and doesnt ignore installing
 
 @sio.event
-def connect(sid):
+def connect(sid, environ):
     print(f'{sid} has joined')
 
 
